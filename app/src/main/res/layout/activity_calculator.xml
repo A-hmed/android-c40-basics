@@ -40,6 +40,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="7"
                 android:textSize="22sp" />
@@ -50,6 +51,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="8"
                 android:textSize="22sp" />
@@ -60,6 +62,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="9"
                 android:textSize="22sp" />
@@ -70,6 +73,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onOperatorClick"
                 android:text="+"
                 android:textSize="22sp" />
@@ -87,6 +91,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="4"
                 android:textSize="22sp" />
@@ -97,6 +102,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="5"
                 android:textSize="22sp" />
@@ -107,6 +113,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="6"
                 android:textSize="22sp" />
@@ -117,6 +124,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onOperatorClick"
                 android:text="*"
                 android:textSize="22sp" />
@@ -134,6 +142,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="1"
                 android:textSize="22sp" />
@@ -144,6 +153,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="2"
                 android:textSize="22sp" />
@@ -154,6 +164,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="3"
                 android:textSize="22sp" />
@@ -164,6 +175,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onOperatorClick"
                 android:text="/"
                 android:textSize="22sp" />
@@ -181,6 +193,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="."
                 android:textSize="22sp" />
@@ -191,6 +204,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onDigitClick"
                 android:text="0"
                 android:textSize="22sp" />
@@ -201,6 +215,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onEqualClick"
                 android:text="="
                 android:textSize="22sp" />
@@ -211,6 +226,7 @@
                 android:layout_marginStart="4dp"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
+                android:backgroundTint="#F41E1E"
                 android:onClick="onOperatorClick"
                 android:text="-"
                 android:textSize="22sp" />
