@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basics C40</string>
+    <string name="username">username</string>
+    <string name="please_enter_your_username">Please enter your username</string>
+    <string name="password">Password</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="login">Login</string>
+</resources>
